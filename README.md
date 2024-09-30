@@ -7,3 +7,4 @@ post request /api/users -> Create new user  <br>
 get request /api/users/:id -> get the details of a particular user with id  <br>
 patch request /api/users/:id -> Edit the user with id  <br>
 delete request /api/users/:id -> Delete the user with id  <br>
+I am using postman for api testing of all the routes.
